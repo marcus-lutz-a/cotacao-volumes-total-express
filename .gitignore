@@ -1,0 +1,13 @@
+# Credenciais e configurações locais nunca vão para o repositório
+*.local.php
+.env
+.env.*
+
+# Pacotes gerados
+*.zip
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
